@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Fading echoes call,
+=======
+Fading echoes call
+>>>>>>> d6f349c1d5cc147f895dfb99fdd0ad1cb8e53708
 Love's petals in winds of change,
